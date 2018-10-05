@@ -1,3 +1,4 @@
+#my472
 # Welcome to MY472 - Data for Data Scientists
 
 Before we start our first guided coding session, let's become a bit more familiar with RStudio Server (which we will use to interact with R) and RMarkdown.
